@@ -1,27 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Fitahiana Nomeniavo Joe</h1>
+<h3 align="center">Developer from Madagascar</h3>
 
-- 🔭 I’m currently working on sublLike, it is my project, text editor build with python tkinter
-- 🌱 I’m currently learning software engineer,.
-- 💬 Ask me about ...
-- 📫 How to reach me: with email: 24nomeniavo@gmail.com
+- 🔭 I’m currently working on [Magic-text](https://github.com/j03-dev/Magic-texteditor)
 
-### sorry for my english! lol!
+- 🌱 I’m currently learning **Rust, Tensorflow(keras)**
 
+- 👯 I’m looking to collaborate on [Mvola api](https://github.com/j03-dev/Mvola)
 
-### my name is FITAHIANA Nomeniavo Joe but you can call me anytime kkkkk
-### i love python
+- 💬 Ask me about **python**
 
-### tools
-- linux
-- vim or sublime text(yes sir KKKKK)
+- 📫 How to reach me **24nomeniavo@gmail.com**
 
-### Programing language
-- python
-- java
-- c/c++
-- php (i don't like it hahaha)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### framework
-- django
-- flask
-- springboot
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
