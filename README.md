@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **24nomeniavo@gmail.com**
 
-- 📄 Know about my experiences Master's degree in computer application development, Hackathon HIU 2022, Coding Game: 
-* [hackerRank](), [codesignal](https://app.codesignal.com/profile/joe_f45)
+- 📄 Know about my experiences:
+  -  Master's degree in computer application development
+  -  Hackathon HIU 2022,
+  -  Coding Game: [hackerRank](), [codesignal](https://app.codesignal.com/profile/joe_f45)
 
 - ⚡ Fun fact **CTRL+Z and CTRL+Y is Bae**
 
