@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a developer passionate about creating efficien
 
 ## Favorite Project: [Russenger](https://github.com/j03-dev/russenger)
 
-**Russenger** is my favorite project where I showcase my skills in building a messaging application. It's a project close to my heart, combining various technologies and demonstrating my proficiency in backend development.
+**Russenger** is my favorite project where I showcase my skills in building a library for creating Messenger bots with Rust. It's a project close to my heart, combining my love for Rust and backend development.
 
 ## Technologies I Love
 
