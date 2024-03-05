@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a developer passionate about creating efficien
 
 ## Get in Touch
 
-- LinkedIn: [j03-dev](https://www.linkedin.com/in/j03-dev/)
 - Email: [24nomeniavo@gmail.com](mailto:24nomeniavo@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions, collaboration opportunities, or just want to chat!
