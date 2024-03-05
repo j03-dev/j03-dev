@@ -7,6 +7,9 @@ Welcome to my GitHub profile! I'm a developer passionate about creating efficien
 - 🌍 Based in Madagascar
 - 💼 Freelance Odoo Developer
 - 🔧 Backend Django Rest Framework Enthusiast
+- 🏆 Competitive Programmer
+- 🚩 CTF Enthusiast
+- ⌨️ Hackathon Participant
 
 ## Favorite Project: [Russenger](https://github.com/j03-dev/russenger)
 
@@ -14,10 +17,10 @@ Welcome to my GitHub profile! I'm a developer passionate about creating efficien
 
 ## Technologies I Love
 
-- Python
-- Rust
-- Java
-- Angular
+- Python 🐍
+- Rust 🦀
+- Java ☕
+- Angular 🔷
 
 ## Get in Touch
 
