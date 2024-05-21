@@ -1,4 +1,4 @@
-# Hello, I'm [j03-dev](https://github.com/j03-dev) 👋
+# Hello, I'm Joe
 
 Welcome to my GitHub profile! I'm a developer passionate about creating efficient and elegant solutions using Python, Rust, Java, and Angular. I specialize in backend technologies and love building libraries to make development easier and more efficient.
 
