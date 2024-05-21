@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a developer passionate about creating efficien
 - 🚩 CTF Enthusiast
 - ⌨️ Hackathon Participant
 
-## Favorite Project: [Russenger](https://github.com/j03-dev/russenger)
+## Favorite Project: [Russenger](https://crates.io/crates/russenger)
 
 **Russenger** is my favorite project where I showcase my skills in building a library for creating Messenger bots with Rust. It's a project close to my heart, combining my love for Rust and backend development.
 
